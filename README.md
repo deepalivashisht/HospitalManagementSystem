@@ -1,2 +1,2 @@
 # HospitalManagementSystem
-![Alt text](/relative/path/to/screenshot.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/screenshot.JPG?raw=true "Optional Title")
